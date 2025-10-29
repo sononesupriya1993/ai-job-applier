@@ -4,7 +4,7 @@ import os, json, openai
 with open("../profile.json", "r", encoding="utf-8") as f:
     profile = json.load(f)
 
-openai.api_key = "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"
+openai.api_key = "sk-your-key-here"
 
 JOBS_DIR = "../jobs/fetched"
 OUT_FILE = "../out/job_analysis_results.json"
