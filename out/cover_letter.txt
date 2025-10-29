@@ -1,0 +1,23 @@
+[Your Address]  
+Oslo, Norway  
+[Date]  
+
+[Hiring Manager's Name]  
+your organization  
+[Company Address]  
+[City, State, Zip]  
+
+Dear [Hiring Manager's Name],  
+
+I am excited to apply for the ML Engineer position at your organization. With a Master's degree in Data Science and over three years of hands-on experience in analytics, Python, and SQL, I am eager to contribute my expertise to develop and productionize innovative machine learning solutions. At ABC Analytics, I honed my skills by analyzing complex datasets and optimizing reporting workflows, which has prepared me well to tackle the challenges presented in this role.  
+
+In my recent projects, I’ve developed a Sales Forecasting Model with 90% accuracy and implemented a Customer Churn Prediction model with a recall rate of 85%. These experiences, coupled with my proficiency in deploying robust data solutions using libraries like Pandas and scikit-learn, have granted me a solid foundation in building scalable and valuable models. I enjoy collaborating with diverse teams and am enthusiastic about the opportunity to work alongside data scientists and software engineers to ensure our initiatives have a meaningful impact.  
+
+I am particularly drawn to this role because of my strong desire to continue learning and adapting, as I understand the evolving nature of machine learning technologies. I am excited at the prospect of contributing to your organization’s success and would love the opportunity to discuss how my background, skills, and enthusiasm align with your needs. Thank you for considering my application; I look forward to the possibility of working together.  
+
+Warm regards,  
+YourFirst YourLast  
+you@example.com  
++47XXXXXXXX  
+https://www.linkedin.com/in/you  
+https://github.com/you

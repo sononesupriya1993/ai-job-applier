@@ -1,0 +1,24 @@
+{
+  "first_name": "YourFirst",
+  "last_name": "YourLast",
+  "email": "you@example.com",
+  "phone": "+47XXXXXXXX",
+  "location": "Oslo, Norway",
+  "linkedin": "https://www.linkedin.com/in/you",
+  "portfolio": "https://github.com/you",
+  "summary": "Data professional with 3 years of experience in analytics, Python, SQL, and machine learning.",
+  "skills": ["Python","SQL","Pandas","scikit-learn","Tableau","Power BI","BigQuery","Statistics","Data Visualization"],
+  "projects": [
+    {"title":"Sales Forecasting Model","desc":"Developed a time-series forecasting model using Prophet to predict monthly sales with 90% accuracy.","skills_used":["Python","Pandas","Prophet"]},
+    {"title":"Customer Churn Prediction","desc":"Built classification models (Logistic Regression, Random Forest) to predict churn with 85% recall.","skills_used":["scikit-learn","SQL","Matplotlib"]}
+  ],
+  "education": [{"school":"Your University","degree":"MSc in Data Science","years":"2019-2021"}],
+  "experience": [
+    {"company":"ABC Analytics","role":"Data Analyst","years":"2021–Present","bullets":[
+      "Analyzed datasets using Python and SQL to optimize reporting workflows by 30%.",
+      "Created Power BI dashboards for sales KPIs and forecasting metrics."
+    ]}
+  ],
+  "salary_expectation": "700000 NOK",
+  "work_auth": "Eligible to work in Norway and EU"
+}

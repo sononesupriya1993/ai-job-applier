@@ -1,0 +1,33 @@
+SYSTEM: You are a structured job analyzer.
+
+USER: Here is a job posting:
+"""
+{{JOB_DESCRIPTION}}
+"""
+
+Candidate profile:
+{{PROFILE_JSON}}
+
+TASKS:
+1. Extract and return in JSON:
+   - title
+   - company
+   - location
+   - required_skills (list)
+   - preferred_skills (list)
+   - key_responsibilities (list)
+2. Compare candidate skills with required_skills.
+3. Compute a "match_score" between 0.0 and 1.0.
+4. Return a short explanation (2 sentences) of strengths and gaps.
+
+Output ONLY JSON:
+{
+  "title": "",
+  "company": "",
+  "location": "",
+  "required_skills": [],
+  "preferred_skills": [],
+  "key_responsibilities": [],
+  "match_score": 0.0,
+  "comment": ""
+}

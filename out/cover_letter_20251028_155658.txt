@@ -1,0 +1,20 @@
+[Your First] [Your Last]  
+Oslo, Norway  
+you@example.com  
++47XXXXXXXX  
+[Date]  
+
+[Recipient's Name]  
+[Company's Name]  
+[Company's Address]  
+
+Dear [Recipient's Name],
+
+I am writing to express my interest in the Machine Learning Engineer position. With a Master’s degree in Data Science and three years of hands-on experience in data analytics, I have developed a strong foundation in Python and SQL, which aligns well with the requirements of your role. My current position as a Data Analyst at ABC Analytics has allowed me to optimize reporting workflows and create insightful dashboards, showcasing my ability to deliver robust and scalable solutions.
+
+In my previous projects, such as developing a Sales Forecasting Model and Customer Churn Prediction, I utilized machine learning techniques along with Python and SQL to produce impactful results. These experiences reflect my practical knowledge of data engineering principles, which I understand is crucial for the position you're offering. My background, coupled with my enthusiasm for continuous learning, makes me a proactive candidate who is excited about taking on new challenges in the field.
+
+I am drawn to the opportunity to work alongside a team of skilled professionals in a dynamic environment that values innovation. I look forward to the possibility of contributing to your organization by leveraging my skills to drive meaningful business outcomes. Thank you for considering my application.
+
+Sincerely,  
+[Your First] [Your Last]

@@ -1,0 +1,41 @@
+YourFirst YourLast  
+Oslo, Norway  
+you@example.com | +47XXXXXXXX  
+https://www.linkedin.com/in/you | https://github.com/you  
+
+SUMMARY  
+Motivated data professional with over 3 years of experience in Python and SQL. Proficient in exploring, developing, and productionizing ML solutions. Versatile analyst skilled in collaborating with data and software teams to create valuable and scalable machine learning models.
+
+SKILLS  
+- Python (3 years)  
+- SQL (3 years)  
+- Pandas  
+- scikit-learn  
+- Data Engineering  
+- Data Visualization (Tableau, Power BI)  
+- Statistics  
+
+EXPERIENCE  
+
+Data Analyst  
+ABC Analytics | 2021–Present  
+- Analyzed datasets using Python and SQL, optimizing reporting workflows by 30%.  
+- Developed and deployed Power BI dashboards for sales KPIs and forecasting metrics, enhancing data accessibility and insights.
+
+PROJECTS  
+
+Sales Forecasting Model  
+- Developed a time-series forecasting model using Prophet to predict monthly sales with 90% accuracy, showcasing proficiency in engineering data solutions.  
+
+Customer Churn Prediction  
+- Built and deployed classification models (Logistic Regression, Random Forest) to predict customer churn with 85% recall, focusing on robust and scalable model development.  
+
+EDUCATION  
+MSc in Data Science  
+Your University | 2019-2021  
+
+WORK AUTHORIZATION  
+Eligible to work in Norway and the EU  
+
+This background reflects a strong fit for the ML Engineer role, particularly in SQL and Python. Eager to expand expertise into LLMs and IoT technologies, demonstrating curiosity and a willingness to learn.  
+Salary expectation: 700,000 NOK.
