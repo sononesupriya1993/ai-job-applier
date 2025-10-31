@@ -25,10 +25,7 @@ def make_cover_letter(job):
     prompt = f"""
     You are an expert recruiter assistant.
 
-    Write a short professional cover letter (3 short paragraphs)
-    for this candidate and job. Use ONLY facts from the candidate profile;
-    do not invent experience, degrees, or projects. Only reference information already present in the candidate profile and try to connect it with the job description highlighting the relevant skills and experience if any.
-
+    Add rest of your prompt here
     Candidate:
     {json.dumps(profile, indent=2)}
 
