@@ -44,10 +44,7 @@ private projects that support interest in engineering data.
 prompt = f"""
 You are an expert recruiter assistant.
 
-Write a short, professional cover letter for the job below,
-using the candidate's real CV as-is (do NOT invent new skills, education, or projects).
-Only reference information already present in the candidate profile and try to connect it with the job description highlighting the relevant skills and experience if any.
-Keep it 3 short paragraphs, friendly but formal. Do not use fancy words.
+Add your prompt here
 
 Candidate:
 {json.dumps(profile, indent=2)}
