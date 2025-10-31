@@ -7,7 +7,12 @@ with open("../profile.json", "r", encoding="utf-8") as f:
     profile = json.load(f)
 
 # 🔧 Replace with your OpenAI API key
-openai.api_key = "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"
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+openai.api_key = os.getenv("OPENAI_API_KEY")
+
 
 # ---- Job description to tailor for ----
 job_description = """

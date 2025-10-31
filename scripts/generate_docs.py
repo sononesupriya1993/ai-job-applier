@@ -32,7 +32,12 @@ job_data = {
 
 # -------------- CONFIG ----------------
 # Replace this with your OpenAI API key (get from https://platform.openai.com)
-openai.api_key = "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"
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+openai.api_key = os.getenv("OPENAI_API_KEY")
+
 # -------------------------------------
 
 # 🧠 Generate tailored CV

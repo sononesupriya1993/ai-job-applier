@@ -1,7 +1,12 @@
 import os, json, openai
 from datetime import datetime
 
-openai.api_key = "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"
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+openai.api_key = os.getenv("OPENAI_API_KEY")
+
 
 # read previous analyzer output
 with open("../out/job_analysis_results.json", "r", encoding="utf-8") as f:
@@ -14,7 +19,7 @@ with open("../profile.json", "r", encoding="utf-8") as f:
 OUT_DIR = "../out/letters"
 os.makedirs(OUT_DIR, exist_ok=True)
 
-THRESHOLD = 0.7  # only make letters for matches >= 70%
+THRESHOLD = 0.7 # only make letters for matches >= 70%
 
 def make_cover_letter(job):
     prompt = f"""

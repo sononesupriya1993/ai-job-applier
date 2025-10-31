@@ -5,7 +5,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 from playwright.sync_api import sync_playwright
 
 # --- Google Sheet Setup ---
-SHEET_ID = "1dEFp15tS0WanEvJt0Uijy4zO7UpM1jEcUzkfVSarpDg"
+SHEET_ID = os.getenv("GOOGLE_SHEET_ID")
 
 scope = [
     "https://spreadsheets.google.com/feeds",

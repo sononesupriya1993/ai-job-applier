@@ -4,7 +4,10 @@ import os, json, openai
 with open("../profile.json", "r", encoding="utf-8") as f:
     profile = json.load(f)
 
-openai.api_key = "sk-your-key-here"
+from dotenv import load_dotenv
+import os
+load_dotenv()
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 JOBS_DIR = "../jobs/fetched"
 OUT_FILE = "../out/job_analysis_results.json"

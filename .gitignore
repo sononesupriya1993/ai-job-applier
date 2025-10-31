@@ -1,0 +1,12 @@
+# 🔒 Hide secrets
+.env
+token.json
+client_secret.json
+sheets_key.json
+profile.json
+Automatic job application - Job application automation_files/
+
+# 🧹 Ignore local data
+__pycache__/
+*.pyc
+/out/
