@@ -114,9 +114,9 @@ for i, job in enumerate(rows, start=2):
     apply_to_job(
         url=url,
         cover_letter_path=cover_letter_path,
-        first_name="Supriya",
-        last_name="Sonone",
-        email="ssupriya5156@gmail.com",
+        first_name="Sxxxxx",
+        last_name="Sxxxxx",
+        email="sxxxxxxxxx@gmail.com",
         phone="+47XXXXXXXX"
     )
 
